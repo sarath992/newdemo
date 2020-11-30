@@ -1,0 +1,24 @@
+#top{
+    border-style: solid;
+    border-width: 6px;
+    border-color:rgb(194, 155, 141);
+    width:50%;
+    margin-left: 80px;
+    text-align: center;
+    padding-left: 20px;
+
+}
+#bottom{
+    border-style: solid;
+    border-width: 6px;
+    border-color:rgb(194, 155, 141);
+    width:50%;
+    margin-top: 500px;
+    margin-left: 350px;
+    text-align: center;
+
+
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+        
+#one{
+    border-style: solid;
+    border-color: coral;
+
+    background-color:rgb(141, 186, 194);
+    width:7%;
+    margin-top: 50px;
+    height: 40%;
+    padding: 20px;
+    float: left;
+    position: absolute;
+    left:50px;
+    
+    
+}
+#two
+{
+    border-style: solid;
+    border-color: chartreuse;
+
+    background-color:rgb(194, 155, 141);
+    width:7%;
+    margin-top: 50px;
+    margin-left:100px;
+    
+    height: 40%;
+    padding: 20px;
+    float:left;
+    position: absolute;
+    left:90px;
+
+}
+#three
+{
+    border-style: solid;
+    border-color: crimson;
+
+    background-color:rgb(164, 141, 194);
+    width:7%;
+    height:40%;
+    
+    margin-left:150px;
+    margin-top:50px;
+    padding: 20px;
+    float: left;
+    position: absolute;
+    left:180px;
+    
+}
+#four{
+    border-style: solid;
+    border-color: darkblue;
+    
+    background-color:rgb(143, 194, 141);
+    width:7%;
+    margin-left:200px;
+    
+    height: 40%;
+    margin-top: 50px;
+    float: left;
+    padding: 20px;
+    position: absolute;
+    left:270px;
+}
+#five{
+    border-style: solid;
+    border-color:darkgoldenrod;
+    
+    background-color:rgb(194, 141, 141);
+    width:7%;
+    margin-left: 250px;
+    margin-top: 50px;
+    
+    height: 40%;
+    float:left;
+    padding:20px;
+    position: absolute;
+    left:360px;
+    
+}
+
+
